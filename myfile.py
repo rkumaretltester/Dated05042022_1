@@ -19,6 +19,7 @@
 # year is not leap year
 #else:
 #    print("{0} is not a leap year".format(year)
+ #print("{0} is not a leap year".format(year))
 
 # Program to check if a number is prime or not
 
@@ -44,5 +45,4 @@ if num > 1:
 if flag:
     print(num, "is not a prime number")
 else:
-    print(num, "is a prime number")
-    print("{0} is not a leap year".format(year))
+    print(num, "is a prime number"))
