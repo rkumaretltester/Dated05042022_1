@@ -18,6 +18,7 @@ elif (year % 4 ==0) and (year % 100 != 0):
 # if not divided by both 400 (century year) and 4 (not century year)
 # year is not leap year
 else:
+<<<<<<< HEAD
     print("{0} is not a leap year".format(year)
 
 # Program to check if a number is prime or not
@@ -45,3 +46,6 @@ if flag:
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number"))
+=======
+    print("{0} is not a leap year".format(year))
+>>>>>>> 9a7c290a2b4e3a68c4388f61467291fad6e0fbb4
