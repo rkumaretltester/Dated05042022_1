@@ -46,6 +46,4 @@ if flag:
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number"))
-=======
     print("{0} is not a leap year".format(year))
->>>>>>> 9a7c290a2b4e3a68c4388f61467291fad6e0fbb4
